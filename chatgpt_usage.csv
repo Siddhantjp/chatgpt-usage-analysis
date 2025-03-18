@@ -1,0 +1,201 @@
+User ID,Age Group,Country,Profession,Average Session Duration (minutes),Sessions Per Day,Usage Time,Feedback Score,Sentiment,Coding,Writing,General Knowledge,Assignments,Feedback Score (1-10),Simulated IQ,Attention Span (1-10)
+aa993fd5-8511-4431-8bb4-f8be9350ee0f,<18,Honduras,Student,45.79,4,Afternoon,2,Negative,13,86,72,55,7,109,6
+3bc6a434-5375-45f7-bab6-cea1b10c8fd1,<18,Mauritius,Student,10.15,4,Morning,5,Positive,91,83,61,80,4,124,6
+fe56b1dc-ee33-495e-9b5f-062beec825d5,41–60,South Georgia and the South Sandwich Islands,Other,20.3,1,Afternoon,4,Neutral,35,19,39,95,8,129,1
+633bce31-86f7-430b-a591-1b6dcf471ca1,<18,Guadeloupe,Marketer,10.32,6,Evening,1,Negative,58,68,1,75,5,85,9
+196aa08a-43c0-4cfd-9030-077cc2574ed6,>60,Guyana,Researcher,36.75,2,Morning,2,Neutral,10,29,3,16,7,100,6
+108ac6b8-3f4a-4765-8de0-b16861e98640,26–40,Ghana,Developer,25.36,4,Evening,1,Negative,81,21,77,8,10,123,3
+75961c1e-b036-42c7-8fa4-80dbb136ad4b,41–60,Central African Republic,Marketer,19.85,9,Afternoon,3,Positive,29,4,92,4,3,89,4
+fd712a9b-ab2e-459a-8d5d-aa823a0ef2f3,18–25,Portugal,Other,53.2,6,Afternoon,4,Neutral,82,58,62,4,7,106,4
+d20cf7ea-4ccf-4b50-9819-6a3d53e036ab,>60,Andorra,Other,19.45,10,Night,5,Neutral,46,28,63,56,8,113,3
+db368db2-ce11-41bb-afae-a38ca873c620,<18,Ecuador,Student,13.41,3,Night,5,Positive,49,48,25,25,5,87,10
+a823b753-307d-4a3b-92b0-2d62b83d7669,>60,El Salvador,Student,42.42,2,Evening,3,Positive,37,55,56,67,4,96,3
+0b2d513e-6e3a-47e4-b3fe-52906d8b1bb1,>60,Uruguay,Developer,32.92,2,Evening,5,Negative,25,19,33,96,8,110,3
+09e71e35-cc38-4db1-813a-f7b856d8abbb,>60,Pakistan,Researcher,31.87,2,Evening,3,Positive,7,30,38,67,8,100,4
+43090653-c509-4d45-9242-84f030fcdf18,<18,Vietnam,Other,47.12,3,Night,5,Positive,33,67,6,27,3,121,7
+afd8c4c1-05a0-45a9-952a-87e986877cb5,26–40,British Virgin Islands,Marketer,59.73,6,Night,5,Neutral,15,31,58,93,6,106,4
+78748c91-1557-4bb8-9890-c28fa642f5f8,>60,Yemen,Other,17.66,4,Morning,1,Negative,80,7,44,32,5,113,9
+7175ab18-50ba-4f7b-8782-e9ba93d50ac5,<18,China,Other,18.09,8,Afternoon,5,Positive,92,73,45,50,2,98,1
+2c8486fc-a80c-45b6-b755-7129edfee41d,41–60,Kazakhstan,Developer,10.19,7,Evening,4,Neutral,59,93,32,61,8,112,8
+157a8ab5-406e-4101-a6c5-8889ba0bc46d,<18,Cote d'Ivoire,Marketer,45.05,2,Afternoon,2,Positive,68,57,45,51,6,89,7
+0f314bcf-4b3c-43f6-8fe5-fc7dea179bcd,41–60,Iran,Developer,53.1,2,Night,5,Positive,6,83,61,19,2,114,2
+767ee240-2bb4-42b1-9c96-cbfa5ab0afae,18–25,Aruba,Marketer,31.71,4,Night,1,Positive,48,0,47,21,5,130,8
+322eae2b-5350-4cff-8459-dc682d3ba1f7,26–40,Faroe Islands,Marketer,43.31,9,Night,2,Positive,37,27,21,5,1,89,1
+3a19b914-2402-4cc5-aee7-d009743757ad,26–40,Liechtenstein,Student,7.76,8,Afternoon,1,Negative,10,23,80,82,10,96,9
+ebac2e92-852e-4b00-af24-9ab0fb04bdd9,41–60,Dominica,Student,56.79,10,Afternoon,5,Negative,5,79,85,92,6,100,9
+a6af225c-9224-4f2a-b1d3-7a0aa2c4bc10,26–40,Congo,Developer,41.83,6,Afternoon,3,Neutral,16,85,75,42,9,110,2
+1bef34fa-2a37-4693-b841-733b0ce805b4,<18,Nepal,Student,30.21,10,Morning,1,Negative,27,64,36,61,1,110,7
+a1d30220-22bb-4b1f-95de-fe4b959f388f,18–25,Tunisia,Researcher,20.67,8,Evening,5,Negative,67,1,99,22,10,105,10
+a687eeb8-fb93-482c-8cbe-640632c9795a,18–25,Saint Pierre and Miquelon,Researcher,11.35,2,Afternoon,3,Neutral,77,26,19,21,3,123,3
+ce371af5-fbca-48cc-bd56-054b17bba07b,>60,Belize,Marketer,18.81,1,Morning,4,Neutral,5,0,20,70,7,120,7
+6a157a81-846a-4547-8f95-4e88421c3a00,18–25,Sweden,Marketer,35.34,7,Morning,1,Positive,88,19,57,1,4,117,10
+bbbfc018-816b-4f08-bf3d-62576ce5f7ab,41–60,Solomon Islands,Developer,7.3,6,Morning,3,Positive,87,31,18,5,9,114,9
+25fecbe1-f519-43cf-98fa-b8bc0366887b,>60,Niger,Developer,55.92,4,Afternoon,2,Neutral,3,22,47,12,3,121,4
+bdf7c969-81ef-42cb-8bc2-06de47830bb8,18–25,Bulgaria,Researcher,13.76,2,Night,1,Neutral,28,25,49,90,5,107,1
+dea0e145-06d1-4cd6-99e3-4312f746df15,18–25,Bulgaria,Student,41.3,7,Evening,3,Positive,98,35,14,46,3,94,2
+6d0cf412-6b8b-4f20-8c59-5a14765af1b7,>60,New Zealand,Researcher,56.66,2,Evening,2,Negative,33,4,15,34,7,89,1
+7b6b1a84-769a-4488-acdd-456ad97aedb1,26–40,Guyana,Marketer,38.34,9,Morning,4,Negative,24,32,31,49,5,120,5
+ce478ef0-b77f-453e-90f1-8ac0609a323f,>60,Peru,Other,42.78,4,Evening,4,Positive,85,42,1,78,9,118,5
+b3502a5a-98ef-48aa-a810-748837d7a579,26–40,Italy,Other,22.01,7,Evening,4,Negative,37,70,54,90,7,115,7
+fa3bcfe7-5be6-42cb-8bf9-d88be6596e73,18–25,Grenada,Other,36.3,7,Morning,3,Neutral,26,55,3,45,2,94,9
+1d3a1eac-2bb2-428e-b69f-d31feccb0051,41–60,Denmark,Marketer,29.32,4,Night,2,Negative,10,36,16,27,4,103,9
+92286f49-8682-41d5-9023-9b47713635b8,<18,Niger,Developer,42,4,Afternoon,2,Positive,5,31,87,73,9,116,3
+69db3f57-de84-456d-b0de-5bc8d0fc0deb,41–60,Liberia,Marketer,53.74,10,Afternoon,4,Neutral,51,31,57,26,2,85,3
+5f90402b-756c-40ad-8258-24a6cd9921c9,<18,Saint Lucia,Marketer,17.04,9,Night,1,Negative,31,15,75,47,10,89,3
+8b6cd8b2-d9e4-4597-a744-53ca0a61856e,41–60,Equatorial Guinea,Other,49.83,9,Night,5,Neutral,20,95,12,86,9,129,4
+52a05594-211b-4699-a05f-a2848b22a016,26–40,Bouvet Island (Bouvetoya),Other,31.65,4,Evening,4,Positive,91,36,74,56,10,88,8
+8f86b73e-42d4-49c0-a338-f97bb7ec15dc,>60,Jamaica,Student,12.61,4,Night,2,Negative,27,8,96,94,5,100,6
+e01332ca-e7c0-4a30-ac3c-68315fccdc04,41–60,Honduras,Student,16.38,7,Night,5,Negative,2,97,16,63,2,108,8
+6a812187-3cc6-4234-ab08-eec58068285f,26–40,Bhutan,Researcher,46.44,7,Afternoon,4,Positive,34,55,72,48,4,100,1
+5a73260e-d789-400f-8ee1-b10def1b6ddd,41–60,Antarctica (the territory South of 60 deg S),Developer,51.23,3,Morning,4,Negative,72,84,76,61,7,86,8
+9e8620f3-74a5-4218-9f61-e0f24d8b7213,18–25,Isle of Man,Marketer,15,5,Night,3,Positive,58,41,24,81,8,112,4
+d13fafee-d9b3-4dce-b588-d316f13cdd08,41–60,Serbia,Researcher,50.92,8,Morning,5,Positive,44,28,28,26,3,116,1
+ab63651f-a78e-4b88-a13b-afbf76dbc1c2,<18,Saint Kitts and Nevis,Developer,15.96,1,Afternoon,2,Positive,60,85,8,36,1,111,8
+9cb67ccb-5352-40e5-b251-867631f6b39b,26–40,French Polynesia,Researcher,14.23,10,Morning,2,Neutral,13,74,92,1,4,104,4
+31320412-9a97-44ee-8973-9c49f7950d85,41–60,Portugal,Developer,9.18,4,Morning,3,Negative,76,15,36,8,2,108,6
+fdee5de4-274d-4a1d-8b61-b49c29874ca7,>60,Argentina,Marketer,41.38,2,Evening,1,Neutral,62,13,90,99,8,96,8
+6c2d76ab-fec1-4caa-b51d-506b79090dfe,18–25,United Kingdom,Marketer,14.69,9,Evening,5,Negative,99,61,8,52,4,119,4
+b3edf7bd-73ad-48ee-8ea3-ce117791148f,26–40,El Salvador,Developer,50.69,2,Evening,4,Positive,96,59,58,79,2,117,3
+bcf88fcb-d1fc-4a7d-84b1-40d37f483bb7,26–40,Timor-Leste,Student,32.19,6,Afternoon,4,Positive,45,33,60,47,6,117,9
+5eec41fb-f18e-4584-9247-1238df4c140f,>60,Israel,Student,33.41,4,Morning,2,Negative,52,62,50,56,6,127,3
+97cc4173-1cd9-4f66-b8ee-098dab2c43b9,41–60,Aruba,Marketer,48.61,2,Evening,2,Neutral,88,31,28,86,10,121,9
+55b07b84-8847-4612-ad81-c17a6b36cdd6,41–60,Thailand,Other,34.2,7,Evening,3,Negative,58,34,92,14,4,96,2
+f396532b-3652-45a5-9dcd-e0eef14da1bd,18–25,Lesotho,Researcher,11.58,9,Afternoon,2,Positive,94,61,41,90,6,87,2
+19806fef-5f7a-4ab5-bc29-312c3251c53f,<18,Dominica,Developer,21.29,6,Afternoon,3,Positive,90,68,100,28,2,85,2
+f788c798-86af-4c5e-9d1b-1ca22021a8b5,>60,Bahrain,Researcher,43.36,3,Night,1,Positive,73,36,64,87,10,117,6
+8414005d-22fc-41a0-92cc-9f48da59aab2,18–25,Martinique,Student,18.89,8,Morning,1,Neutral,62,9,27,78,2,124,3
+2b61060d-f044-4e7e-bed9-1c1b7d435e44,18–25,Holy See (Vatican City State),Developer,49.61,5,Morning,2,Positive,71,97,63,88,10,94,9
+839405f4-d108-4734-8697-7fd477168466,>60,Andorra,Marketer,29.78,8,Evening,5,Neutral,39,72,17,2,4,127,4
+164c605c-890a-43ae-82cf-4c2c8cb60705,18–25,Switzerland,Developer,19.56,2,Afternoon,2,Positive,70,9,73,26,8,128,1
+8fc8c7a3-aa1e-4fab-b5dd-3188a23fa437,>60,Belgium,Marketer,21.02,4,Evening,3,Negative,58,9,33,14,7,113,4
+90ba821a-97ea-4eca-adf4-4f45f502bb86,41–60,Bulgaria,Student,34.95,3,Evening,2,Positive,7,21,84,59,9,97,1
+1dd60132-ff79-4e3c-9285-9bc4e8ff22cf,41–60,Russian Federation,Student,30.78,5,Night,3,Negative,69,63,77,56,8,96,5
+b41eccc8-8123-4b65-81c5-d11a40cb48ad,41–60,Italy,Researcher,38.2,1,Morning,2,Negative,73,75,92,7,5,115,4
+98f36339-6b40-4fc2-858e-1867e767b65b,>60,Saint Kitts and Nevis,Student,46.97,3,Night,5,Negative,56,35,29,3,2,130,8
+97abe6be-c9d7-46df-bc7c-aceff369afcf,<18,Tonga,Marketer,24.14,6,Evening,1,Positive,42,52,13,23,5,86,8
+270c0e8b-68fc-4c08-8313-e799bff4a0b0,>60,Estonia,Student,30.02,6,Evening,3,Positive,98,51,46,18,8,119,7
+fa51d7a7-c607-4877-83ab-b71a524b9b94,41–60,Antigua and Barbuda,Student,15.32,6,Night,4,Positive,26,34,35,38,10,107,3
+4f2e9d96-0b4c-4f90-bc90-d77420fec266,41–60,United Kingdom,Student,6.59,10,Afternoon,2,Neutral,70,1,6,99,9,101,1
+3fe89e79-748c-4ac7-9451-e87c80015326,<18,Latvia,Marketer,57.09,3,Night,3,Negative,90,34,82,15,9,110,1
+eefd02f2-5366-419f-bc1e-3fe17359ae94,41–60,Belarus,Other,12.96,4,Afternoon,1,Neutral,98,53,69,64,1,92,3
+5c40441a-3074-466e-a6ae-b366db690a06,<18,Andorra,Researcher,44.93,10,Night,2,Neutral,68,61,47,89,9,113,6
+be29dc5b-a42f-495b-bee2-bb4f70984777,41–60,Germany,Researcher,52.83,4,Night,2,Neutral,5,40,25,28,7,110,7
+45cca024-275d-4ec3-b359-1116e2f6a91e,41–60,Liechtenstein,Developer,32.24,1,Afternoon,5,Negative,42,12,66,74,9,94,6
+489570f5-7bc3-4cd0-b31e-888536eb08d6,<18,Heard Island and McDonald Islands,Developer,27.55,3,Morning,4,Neutral,43,79,10,39,8,110,6
+f911ae2b-1c4d-4058-94b9-c25bc8ed9105,26–40,Saint Barthelemy,Other,25.9,6,Night,5,Positive,79,8,56,57,1,118,6
+e403dde9-6b0c-4e1c-9369-0686eb0c9049,18–25,Lebanon,Student,28.87,2,Morning,4,Positive,88,38,30,17,8,125,3
+2b028088-dc3a-46f7-9f96-37cd98115647,26–40,Sierra Leone,Researcher,25.62,3,Afternoon,5,Neutral,72,87,5,86,8,91,6
+bbb5cf80-0c3d-4ef5-8f39-a098bb1fb07c,>60,United States of America,Marketer,39.08,4,Night,5,Positive,29,59,33,90,3,88,8
+6ca1e591-00cb-48c0-8911-b0912a5cf345,<18,Cuba,Marketer,54.57,9,Afternoon,1,Neutral,44,75,65,44,1,129,2
+ba413513-8985-4fc7-a4d1-ac398e1d427e,41–60,Bangladesh,Researcher,15.96,7,Night,1,Positive,48,73,18,25,8,95,5
+0ad3bd78-5674-4b7d-b075-f7afaec1faa6,<18,Djibouti,Marketer,20.1,10,Morning,5,Negative,63,36,96,17,3,113,1
+2fe01341-535b-4ad0-8c76-2d2c53c362f2,18–25,Tokelau,Developer,39.15,3,Morning,1,Neutral,100,56,49,13,3,120,1
+ca8dad04-ebb4-48ca-b90b-d5bb26e61f3c,<18,Bahrain,Researcher,22.97,7,Afternoon,2,Positive,100,69,11,84,1,109,5
+bceb78dc-92f1-4f26-bf4f-914fa26ee1a5,18–25,Rwanda,Researcher,55.27,8,Evening,3,Positive,59,9,85,25,5,105,3
+417e0eb0-26b2-4cc6-af44-f014d7ea332b,>60,Pakistan,Researcher,9.97,7,Morning,3,Negative,15,58,26,68,10,120,4
+495d64d4-aaf0-4565-896a-ca888f744a2b,>60,Iraq,Marketer,50.23,6,Morning,2,Neutral,3,79,63,10,7,94,3
+16e473ed-4df2-4e49-9f5b-fce6cf29d541,<18,Guinea-Bissau,Marketer,55.02,5,Night,1,Positive,5,4,89,67,10,121,1
+8929dc15-2dc1-49bf-b27d-d1c21d428cc3,18–25,Mozambique,Other,12.46,8,Evening,5,Neutral,75,95,86,18,9,93,1
+e37fecdd-d0dc-4709-9773-d6a52a188ee0,41–60,Mongolia,Other,27.45,5,Morning,3,Positive,56,56,59,100,7,108,5
+c9afaf50-bd86-499f-b195-1f6dcf1f7e5b,>60,Korea,Researcher,8.33,5,Afternoon,1,Neutral,11,84,27,86,9,119,6
+701eeb66-b390-4b23-81bb-261d28ffa336,<18,Poland,Researcher,18.4,3,Afternoon,1,Negative,26,75,49,34,8,119,3
+ec4e1328-37c4-40e9-b692-8a0e4d3b8514,>60,Monaco,Student,20.25,3,Afternoon,5,Neutral,22,14,77,8,2,120,9
+6b6181ef-6756-44ae-99e7-6e2de9e8f53c,26–40,Mayotte,Developer,37.39,1,Afternoon,3,Positive,16,94,33,40,1,102,5
+35c8dfb6-5a14-479a-9c99-48c6da6901eb,41–60,Solomon Islands,Marketer,47.79,9,Morning,4,Negative,28,78,98,83,7,123,8
+978c94e2-2f9a-464d-93d8-edc3423b392f,41–60,French Polynesia,Student,8.35,8,Night,4,Negative,13,62,99,42,7,116,1
+412dbac3-856e-4062-aa64-18e18575f776,26–40,Saint Martin,Other,13.16,3,Evening,5,Negative,74,70,1,41,8,108,5
+869b1274-4ccf-423e-877d-4ccbf5c7fe0f,41–60,Albania,Other,38.3,2,Morning,5,Negative,27,55,21,6,5,107,3
+4925127c-e9bb-4c25-936c-8d3e4560934e,41–60,Marshall Islands,Marketer,27.88,2,Evening,4,Neutral,85,32,55,52,3,116,1
+c4ba6cfd-61fc-4278-97b8-0b4a7cb1bf70,<18,Cook Islands,Student,50.75,2,Night,1,Negative,94,47,6,26,8,121,4
+e80056f4-4a21-480c-af97-cc519aa59c5a,<18,Burkina Faso,Marketer,24.45,7,Morning,3,Negative,39,45,92,64,6,96,5
+63810065-3105-4ff4-bb0a-ad3ed415c83e,18–25,Pakistan,Marketer,17.33,2,Evening,5,Neutral,14,97,81,98,3,97,7
+e9a073f6-dc1b-4be8-90fe-44a26efdd21e,>60,Antarctica (the territory South of 60 deg S),Other,38.75,9,Morning,5,Negative,88,34,69,59,1,107,1
+18adf7b2-195a-490e-9241-82c0e4dd08b9,26–40,Panama,Researcher,5.34,3,Night,1,Positive,94,81,95,56,3,109,3
+946a8f10-bb6e-4092-aa65-9c80eb6753f1,41–60,Central African Republic,Marketer,29.95,3,Evening,3,Negative,41,99,5,59,5,119,2
+110a5bc0-fe47-404f-b6a2-4db6370069b3,18–25,United Kingdom,Developer,46.49,1,Morning,3,Neutral,84,54,3,70,3,125,9
+b80603d8-6c10-4181-a29a-d32cbc1ea96d,26–40,Morocco,Developer,46.52,2,Evening,4,Positive,36,86,53,33,1,114,10
+b4b61f44-cde4-4a8a-8e72-d25b70173868,<18,Slovenia,Developer,26.74,10,Morning,1,Positive,38,27,23,53,5,101,6
+9792dbcc-637b-4503-861c-7419a9477d36,26–40,Czech Republic,Researcher,11.6,8,Night,2,Positive,48,68,53,22,10,104,10
+2179d020-080e-4919-b49e-526da494c6f9,<18,Cuba,Marketer,52.4,1,Night,1,Neutral,9,40,37,21,7,109,3
+5ebd04ea-cea7-43de-a76d-4d03f2abc7c7,41–60,Cocos (Keeling) Islands,Researcher,11.33,1,Evening,2,Negative,58,88,74,70,7,106,8
+2f9664d7-207f-43b7-9801-2b1e7b9fdd2a,18–25,Zimbabwe,Marketer,37.39,9,Morning,4,Neutral,95,43,74,70,9,97,8
+368c7e38-1e42-4ff6-9fbc-a1352ba1d317,<18,Andorra,Other,39.83,9,Afternoon,3,Neutral,93,82,83,4,10,103,2
+64c78f02-6637-4729-89fc-a6220c44c06d,26–40,Russian Federation,Developer,14.54,3,Morning,2,Negative,63,59,17,94,10,120,6
+88d684f7-803d-48b6-9df0-41444b7ee466,>60,Micronesia,Other,22.78,6,Afternoon,4,Positive,60,56,85,75,3,96,7
+acda3f99-abe8-4bb1-bc20-a5984633183f,26–40,Comoros,Other,9.08,8,Night,1,Positive,47,36,78,62,7,125,2
+f5961610-bdeb-45b7-b045-51bd94c9d7c5,41–60,Burundi,Other,35.49,1,Night,5,Negative,24,41,73,62,1,103,10
+233df5e1-ac4a-4c5f-94f3-6eb999a9554a,<18,Cape Verde,Marketer,10.69,6,Morning,5,Negative,22,5,1,94,4,96,2
+f078b0b2-9226-4a67-a001-e4370cd4fe63,>60,Pakistan,Other,38.54,6,Evening,3,Neutral,52,99,51,95,4,93,10
+66b5b125-4884-47c8-8aa3-f17bb70e6cdc,26–40,French Guiana,Student,23.13,9,Night,3,Neutral,92,84,45,24,5,91,1
+fcd75be3-6fcb-4906-80cc-f4655d99a1ab,>60,Korea,Developer,55.42,5,Night,2,Negative,90,10,77,55,7,112,8
+167eb043-c7b9-414e-9812-0c0a7f4fd817,18–25,Falkland Islands (Malvinas),Other,10.14,7,Evening,1,Neutral,39,23,4,9,7,98,1
+af1cdd4f-2251-41eb-b491-f45364bdb0c0,18–25,Mexico,Developer,60,3,Morning,3,Positive,64,98,62,3,4,115,9
+f39904f5-13a4-4956-9151-9485261f884c,26–40,Estonia,Other,12.21,7,Afternoon,2,Positive,88,98,65,31,7,103,6
+9c45f4fd-5a28-42c0-81ed-2514e61a5a46,<18,Thailand,Marketer,25.04,4,Night,5,Neutral,96,95,32,40,3,100,7
+b157a109-ba6e-47e6-8071-419ae5094179,26–40,Sudan,Marketer,54.72,4,Evening,5,Neutral,59,98,34,36,6,89,10
+f855f45c-59f9-43ca-9226-4ff2acda13f8,18–25,Marshall Islands,Developer,49.07,3,Evening,1,Negative,61,47,92,24,2,119,7
+1e9bf2af-bdc0-4e41-bf68-9d623c71506e,26–40,Lebanon,Student,46.97,5,Night,5,Positive,55,11,95,95,10,96,10
+54ab275e-cf10-4d26-bd9e-a6c448747e17,41–60,Argentina,Student,26.8,6,Afternoon,4,Positive,47,28,72,6,9,109,3
+5bba33b7-de04-4394-95c6-734771171854,18–25,Andorra,Developer,7.11,8,Afternoon,4,Neutral,78,0,39,66,5,105,2
+fd293c14-3faa-4286-95f6-fcbe6cd652cf,18–25,Uganda,Other,56.71,10,Night,1,Neutral,30,38,26,84,6,120,9
+bb1c0a06-b693-4eab-b557-1ce52b72c5f8,>60,Marshall Islands,Marketer,8.45,8,Morning,5,Negative,30,91,34,92,4,107,8
+11f74e79-5117-42a4-80a2-7c41240f040b,>60,Brunei Darussalam,Researcher,18.23,7,Afternoon,1,Negative,46,8,54,75,10,100,10
+9534f1ee-3aeb-4a1d-888c-2e5f601e774d,41–60,Guinea,Marketer,7.39,7,Evening,3,Negative,2,45,3,4,7,123,7
+46d8426b-a98b-4b22-b32c-ce09f1753b46,<18,Russian Federation,Other,45.44,6,Afternoon,1,Neutral,69,43,50,79,9,129,9
+8d38d90e-da8c-4666-8360-7b5e90421187,41–60,Singapore,Developer,49.63,2,Night,1,Neutral,25,5,12,6,7,126,4
+333736eb-ec11-4f51-bf06-b6de3bd53fa9,>60,Svalbard & Jan Mayen Islands,Marketer,59.4,9,Night,3,Positive,96,82,65,94,1,123,4
+ce233972-cdac-40bf-9190-d7fa7b5b482b,26–40,Somalia,Researcher,11.85,6,Night,4,Negative,56,49,54,51,1,98,1
+7e31ae4d-322f-429e-8975-b29318fe45a6,26–40,Honduras,Other,19.67,2,Night,1,Neutral,77,23,5,62,9,115,8
+b4e95b7c-b679-40e4-9d3c-d30b1f02c223,<18,Guatemala,Researcher,41.35,5,Night,5,Negative,54,21,94,57,9,89,3
+6e9784c9-37a8-4137-9514-31968af7a565,<18,San Marino,Researcher,38.82,7,Evening,1,Positive,85,81,94,66,4,119,7
+f0133bc9-ae5d-4866-9512-4a2fab114add,<18,Ethiopia,Developer,51.68,8,Morning,2,Positive,30,99,57,79,9,107,2
+62834b59-3974-455d-b2a9-7ffed848fe28,>60,Anguilla,Student,38.28,8,Evening,3,Neutral,97,9,17,75,3,113,2
+dee38679-c7d9-4c63-9e18-d7151d3dea6b,41–60,Israel,Researcher,40.73,4,Morning,1,Negative,23,63,47,8,7,127,7
+a40ef2ce-bba6-432a-80b3-9d851e4513c4,26–40,Cyprus,Researcher,43.72,4,Evening,4,Positive,15,17,23,26,6,95,6
+188acb26-67bc-4d8b-b2be-275ef05bb2c8,<18,Holy See (Vatican City State),Researcher,41.73,2,Evening,3,Positive,91,90,79,51,8,102,3
+de7f9682-3567-4b22-82c3-78e3358acfab,>60,Ghana,Developer,11.67,4,Afternoon,2,Neutral,3,46,85,45,9,96,9
+7c701ae7-6896-41f0-92c4-00e334c486dd,>60,Tuvalu,Developer,38.66,2,Morning,3,Neutral,91,92,14,44,5,93,10
+f2878d5a-010c-466d-bd98-ba752f9e8731,>60,Guadeloupe,Student,11.89,6,Morning,4,Neutral,87,66,66,5,1,94,6
+6fc2eb9b-6e53-46e2-8824-d626dd459848,18–25,Indonesia,Marketer,32.66,1,Morning,5,Positive,38,21,75,70,3,128,10
+b9ae3229-3ce7-430f-9510-5a72327e8ced,26–40,Russian Federation,Other,54.22,2,Evening,2,Negative,70,35,51,26,10,101,10
+68158e8b-f6f7-45de-9fb3-34387fe0d6b5,>60,China,Developer,37.55,10,Afternoon,2,Negative,79,92,38,68,8,122,6
+598331fb-e4e2-4372-857f-7ca8cee738e3,<18,Nigeria,Student,7.5,10,Evening,2,Negative,53,79,64,19,6,91,1
+84a7da28-fba2-41f2-8ee5-b52fbb6477f8,26–40,Gambia,Marketer,18.47,7,Evening,4,Positive,88,7,98,84,8,130,4
+7fc9c7f5-b824-40ae-b636-89171ed8fd59,41–60,French Southern Territories,Developer,23.71,3,Evening,3,Negative,44,51,38,97,9,97,10
+035aff5a-7fc8-4bf4-93d1-d9d4246a212b,26–40,New Caledonia,Developer,30.66,5,Night,2,Positive,12,6,50,20,4,124,6
+93422fef-3886-45e1-b752-e0f9dd754af7,18–25,Macao,Developer,49.74,10,Evening,2,Positive,63,65,98,12,1,126,6
+0d15bd84-1637-473b-9250-776179a474e0,<18,Russian Federation,Student,56.99,9,Night,2,Positive,74,45,82,47,1,93,5
+ca626317-e686-4d22-ad8a-790da5fb3153,>60,Guatemala,Marketer,20.72,1,Morning,4,Positive,33,93,30,1,10,111,1
+dcaf92b8-f83e-468b-9f53-599b4105327c,<18,Pitcairn Islands,Marketer,7.81,9,Afternoon,3,Negative,36,9,79,90,4,86,8
+5937537a-f7ad-413e-80f5-a54bded2ef8e,>60,Mauritius,Other,11.53,2,Night,3,Neutral,71,46,91,14,7,89,5
+36b4c434-e6e5-4cdb-95a7-cc76ed40fc3d,>60,Croatia,Student,7.49,3,Evening,4,Negative,58,19,51,64,2,113,5
+16d0767f-84b0-4286-9313-4ea157e212c7,>60,Eritrea,Researcher,13.94,10,Evening,5,Neutral,64,65,63,38,3,121,7
+9435d643-ce35-4930-ba4e-182f7dae64b7,41–60,Hungary,Student,25.26,2,Night,5,Neutral,92,88,98,37,1,122,4
+245f27ce-9b62-4882-ad41-c27090461c74,26–40,Philippines,Other,36.77,1,Night,2,Negative,80,92,52,11,5,103,6
+023ad48a-ea99-4e7b-8f44-560c1e88282c,18–25,Somalia,Student,36.49,2,Afternoon,1,Neutral,40,53,38,100,1,92,4
+346717d3-7349-4062-a733-a9b51d29e815,41–60,French Guiana,Other,47.62,8,Morning,2,Negative,26,71,97,77,8,129,3
+cf14cb1d-49fa-47db-8e13-1cd811397185,26–40,Algeria,Developer,30.28,9,Evening,5,Neutral,86,98,88,3,1,85,7
+b935cdcd-d9e2-4386-b11c-258bf27cba16,>60,Poland,Marketer,15.57,4,Evening,5,Neutral,28,38,79,33,1,106,8
+fe38e36e-fd4e-4ad8-b2e9-dc16a6d10877,41–60,Papua New Guinea,Researcher,31.39,9,Evening,3,Positive,73,86,30,6,2,101,4
+bc4c7060-917b-45b0-a6fb-910563be910e,18–25,Djibouti,Researcher,7.31,2,Evening,4,Negative,32,95,51,50,2,91,2
+19e29e7f-fe44-4591-83c5-4b95e095431a,>60,American Samoa,Researcher,12.55,10,Afternoon,2,Positive,85,67,81,10,6,109,10
+9692d55d-3a9d-4247-8c45-de037538f1fd,<18,Martinique,Marketer,23.17,8,Morning,2,Positive,70,20,5,5,7,129,3
+42007eb0-1a55-4213-adfe-0dee4d0ac560,18–25,French Guiana,Researcher,22.66,1,Morning,5,Positive,68,94,29,23,5,88,1
+59e9bd7d-8b51-4511-82fd-aac3277dd793,18–25,Sweden,Student,59.84,7,Night,2,Negative,37,4,4,10,1,120,8
+9b86909f-76a5-4a32-ab6c-85f7c29c694c,26–40,Cocos (Keeling) Islands,Researcher,29.99,9,Night,2,Negative,59,34,10,44,1,90,3
+ac6345d7-659f-403e-bfda-515e5e692be1,41–60,Costa Rica,Researcher,44.52,1,Evening,3,Negative,86,96,56,2,3,115,10
+8fd60f65-8f84-4f97-b6d4-dc620937b2cb,41–60,Turkmenistan,Other,23.04,7,Morning,2,Positive,61,41,17,13,2,103,7
+aa43c179-d305-4ac5-97f1-389660c7acd8,18–25,Lesotho,Marketer,46.46,6,Evening,5,Negative,73,1,74,40,5,128,10
+5a622a32-0fb5-444a-82da-9623fcaeba9f,<18,Thailand,Student,30.6,3,Night,5,Negative,98,39,17,2,10,123,5
+9b070a42-642e-49d0-ac34-5c36ba8a2acb,26–40,Montserrat,Other,17.15,3,Night,2,Neutral,95,77,84,84,6,111,10
+8496eca0-641d-4ca7-811c-edec72862bde,>60,Mozambique,Developer,46.9,10,Morning,5,Neutral,67,90,88,65,7,94,5
+4c66f30f-c275-4b00-80c6-907a19ed762e,<18,Nauru,Other,54.66,4,Afternoon,2,Neutral,66,56,69,63,4,110,7
+7fd1f6c9-3e79-4d35-9ae6-56bd71ef8400,<18,India,Other,29.5,1,Night,2,Negative,53,58,34,73,7,103,9
+561257e3-a82e-4be7-84c0-8f675efc8593,26–40,Turkey,Student,26.78,1,Afternoon,5,Positive,5,54,6,17,8,123,5
+340819ed-28c9-406f-800f-aac1d3e44e30,<18,Iran,Marketer,6.75,7,Afternoon,2,Negative,93,82,53,9,1,87,1
+4ef719de-8689-4fe0-8e86-1c9646204c00,41–60,Saint Pierre and Miquelon,Marketer,9.41,9,Afternoon,3,Positive,22,68,66,75,6,129,10
+96001004-0f75-422c-8856-abeace7751ee,<18,Wallis and Futuna,Student,58.82,8,Night,5,Neutral,29,31,77,15,8,97,10
+1f6b2298-916a-4951-b086-e395b6e83eeb,18–25,Korea,Student,6.77,7,Morning,2,Positive,8,12,43,24,5,112,1
+9ec0ee32-fc50-4776-942c-eee073d315f7,18–25,Sweden,Student,27.12,4,Afternoon,1,Positive,64,37,75,38,4,104,2
+ff66eb50-424c-4b94-a9db-6c0b8b387a9b,>60,Singapore,Other,47.49,6,Afternoon,3,Positive,84,66,23,35,2,112,6
+9b070a42-675e-49d0-ac-566c36ba8a2bdy,26–40,Montserrat,Other,23.15,2,Night,4,Neutral,89,68,79,99,7,108,8
